@@ -8,9 +8,6 @@ wadajwùdjawd
 adwa
 test 
 122 1w21daw
-<<<<<<< HEAD
 5847
-=======
-1447 
 5847
->>>>>>> 8e0dbfcaa53de2d709c68fbab22e99c87c9e2c8f
+
